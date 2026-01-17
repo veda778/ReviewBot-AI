@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenAI GPT based PR reviewer and summarizer
 
 ![AI](./docs/images/ai.png)
@@ -165,3 +166,7 @@ https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 
 Set `debug: true` in the workflow file to enable debug mode, which will show the
 messages
+=======
+# ReviewBot-AI
+An OpenAI-powered GitHub Action that summarizes pull requests, generates release notes, reviews code changes, and responds to review comments while minimizing unnecessary notifications.
+>>>>>>> 9d3838e2211b1ab3e1bdb42a068fa7dfb8501fa3
