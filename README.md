@@ -81,7 +81,7 @@ Example:
 
 ![PR Release Notes](./docs/images/openai-pr-release-notes.png)
 
-![PR Review](./docs/images/openai-pr-review.png)
+
 
 ![PR Conversation](./docs/images/openai-review-conversation.png)
 
