@@ -83,7 +83,7 @@ Example:
 
 
 
-![PR Conversation](./docs/images/openai-review-conversation.png)
+
 
 #### Environment variables
 
