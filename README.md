@@ -77,7 +77,7 @@ Example:
 
 ### Screenshots
 
-![PR Summary](./docs/images/openai-pr-summary.png)
+
 
 ![PR Release Notes](./docs/images/openai-pr-release-notes.png)
 
